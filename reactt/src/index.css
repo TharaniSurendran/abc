@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.header-nav{
+  background-color: white;
+  height:30px;
+}
+.header-nav a{
+margin-right: 16px;
+color:black;
+}
+.para{
+  margin-left: 200px;
+  margin-right: 200px;
+ 
+}
+.button{
+  background-color: aquamarine;
+}
+
+.container{
+  background-color: rgb(79, 56, 9);
+
+
+}
+
+
+  .services{
+
+    margin-left:600px;
+    padding-top: 80px;
+    color:white;
+    font-style: italic;
+  }
+  .butt{
+
+    margin-left: 20px;
+    margin-top: 30px;
+    padding-left:40px;
+    padding-right: 40px;
+  }
+.timing{
+
+  margin-left: 10px;
+  margin-top: 20px;
+}
+  .salon{
+
+
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+.card-offer:hover{
+
+  height: 20px;;
+  width: 300px;
+  transition: transform 0.3 ease;
+transform: scale(1.05);
+color:white;
+}
+
+.off{
+
+margin-left: 100px;;
+margin-right: 100px;
+padding-top: 30px;}
+.of{
+background-image: url('./Images/ho.jpg');
+background-size: cover;
+}
+.salo{
+  background-image: url('./Images/bg.jpg');
+
+}
+
+#ss{
+  margin-left: 300px;
+}
+#im{
+
+  height:500px;
+  width:600px;
+}
+
+#h{
+
+  margin-left: 100px;
+  height:400px;
+  padding-bottom: 50px;
+}
+
+.footer{
+
+  background-color:rgb(36, 35, 35);
+color:white;
+
+padding-bottom: 20px;
+margin-bottom: 30px;
+}
+
+.at{
+margin-left: 50px;;
+margin-right: 50px;;
+margin-bottom: 100px;
+}
+
+
+.contact-page{
+
+  background-image: url('./Images/image5.avif');
+  color: azure;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container-pg{
+  margin-left: 500px;
+}

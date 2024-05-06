@@ -1,0 +1,30 @@
+{
+  "users": [
+    {},
+    {
+      "id": "89ec",
+      "name": "Hema",
+      "email": "hema17@gmail.com",
+      "password": "1726"
+    }
+  ],
+  "customers": [
+    {},
+    {
+      "id": "1f70",
+      "name": "",
+      "location": "",
+      "services": "",
+      "timing": "",
+      "salon": ""
+    },
+    {
+      "id": "60e5",
+      "name": "",
+      "location": "",
+      "services": "",
+      "timing": "",
+      "salon": ""
+    }
+  ]
+}
